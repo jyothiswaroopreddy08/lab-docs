@@ -51,8 +51,8 @@ https://github.com/GoogleCloudPlatform/microservices-demo
 mkdir -p ~/devops-labs
 cd ~/devops-labs
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/microservices-demo.git
-cd microservices-demo
+git clone https://github.com/YOUR_GITHUB_USERNAME/online-boutique-application.git
+cd online-boutique-application
 ```
 
 Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
@@ -69,7 +69,7 @@ gh repo fork GoogleCloudPlatform/microservices-demo \
   --clone \
   --default-branch-only
 
-cd microservices-demo
+cd online-boutique-application
 ```
 
 If the repository is already cloned, skip the fork and clone steps.
